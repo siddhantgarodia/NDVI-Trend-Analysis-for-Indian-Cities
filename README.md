@@ -94,7 +94,7 @@ This project is licensed under the **[MIT License](./LICENSE)** — feel free to
 
 ## 👤 Author
 
-**Manan Sapaloke**  
+**Siddhant Garodia**  
 🔗 [LinkedIn](http://www.linkedin.com/in/manansapaloke)  
 💻 [GitHub](https://github.com/MananSapaloke)
 
